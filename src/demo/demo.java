@@ -8,7 +8,6 @@ public class demo {
 		System.out.println("linea 2");
 		System.out.println("linea3");
 		/*Cambios en la rama 1*/
-		
 		/*cambio en master*/
 	}
 
