@@ -7,7 +7,7 @@ public class demo {
 		System.out.println("linea1");
 		System.out.println("linea 2");
 		System.out.println("linea3");
-		/*Cambios en la rama 2*/
+		/*Cambios en la rama 1*/
 	}
 
 }
