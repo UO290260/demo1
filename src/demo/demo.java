@@ -6,7 +6,7 @@ public class demo {
 		/*cambio 2 desde la luna en master*/
 		System.out.println("linea1");
 		System.out.println("cambio 3 luna master SOLUCIONADO");
-		System.out.println("linea3");
+		System.out.println("linea3 cambio para rebase");
 		/*Cambios en la rama 2*/
 	}
 
